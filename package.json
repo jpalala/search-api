@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A matching api",
   "main": "index.js",
+  "scripts": {
+    "test": "node test/simpletest.js"
+  },
   "dependencies": {
     "body-parser": "^1.8.3",
     "express": "^4.9.4",
