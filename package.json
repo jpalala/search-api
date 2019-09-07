@@ -1,0 +1,11 @@
+{
+  "name": "simple-search-match",
+  "version": "1.0.0",
+  "description": "A matching api",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.8.3",
+    "express": "^4.9.4",
+    "querystring": "^0.2.0"
+  }
+}
